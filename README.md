@@ -1,0 +1,2 @@
+# Distributed_Data_Processing_and_Performance_Optimization_Using_Apache_Spark_on_NYC_Taxi_Data
+This project demonstrates distributed data processing using Apache Spark on a large-scale real-world dataset. I used the NYC Taxi public dataset and executed analytical queries using Spark’s distributed execution model. Performance was improved using partitioning, caching, and columnar storage formats.
